@@ -2,7 +2,7 @@
 
 ### 실행 예시
 
-![실행결과](https://user-images.githubusercontent.com/52629158/97331536-d4eaad80-18bc-11eb-87c5-51dbc37df360.png)
+![실행결과](https://user-images.githubusercontent.com/52629158/97332027-58a49a00-18bd-11eb-9c0a-b96f224af6dc.png)
 
 <br>
 
